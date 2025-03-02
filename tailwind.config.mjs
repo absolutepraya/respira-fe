@@ -21,7 +21,8 @@ const config = {
         darkblue: "#138ed1",
         lightorange: "#ffd6ba",
         gray: "#d9d9d9",
-        foreground: "#666666"
+        foreground: "#666666",
+        inactive: "#b8b9b8"
       },
     },
   },
